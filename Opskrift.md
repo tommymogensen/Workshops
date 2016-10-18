@@ -4,4 +4,4 @@
 	* her efter skal der smides ca 40% kage i
 		* og så 2 koppe kage svarende til ca 10%
 
-*TADA!!!!! 100% kage*
+**TADA!!!!! 100% kage**
